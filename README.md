@@ -6,7 +6,9 @@
 ![demo](https://raw.githubusercontent.com/jf-wang/small-slider/master/demo.gif)
 
 [演示地址](https://jf-wang.github.io/small-slider/index.html)
+
 ####安装及使用方法
+
 1.在页面底部引入js文件
 
 ```javascript
